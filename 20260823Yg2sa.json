@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "别再只会“加索引”：从磁盘页到 B+Tree，彻底理解 MySQL 索引的设计与运行",
+    "author": "唚齂溯",
+    "time": "2026年08月23日01时07分19秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "大学生兼职一个月倒欠200多",
+  "description": "Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.babetcu.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "穆西亚拉连场热身赛晕倒",
+    "description": "内容页的详细描述，可包含www.blog.babetcu.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "檘菪氀"
+    },
+    "datePublished": "2026年08月23日01时07分19秒",
+    "dateModified": "2026年08月23日01时07分19秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "url": "http://www.blog.babetcu.cn/Article/details/442822.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "小猫一脚干碎主人七八千元玉镯",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/237064.sHtML"
+    },
+{
+      "platform": "激发下沉市场活力 这几点值得期待",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/144695.sHtML"
+    },
+{
+      "platform": "千名群众手持鲜花送别39岁儿科医生",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/269485.sHtML"
+    },
+{
+      "platform": "南斯拉夫被肢解的太惨了吧？这是切块再剁碎啊",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/876507.sHtML"
+    },
+{
+      "platform": "上海一考生中考 700 分放弃市重点选择中本贯通，中本贯通具有什么竞争优势？如何看待这一选择？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/759675.sHtML"
+    },
+{
+      "platform": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/217161.sHtML"
+    },
+{
+      "platform": "在自己买的小房子里，生活徐徐展开！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/372354.sHtML"
+    },
+{
+      "platform": "鸿蒙智行发布关于近期“竹知了”相关网络信息的情况说明",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/745643.sHtML"
+    },
+{
+      "platform": "中国经济何以持续“向新向优向好”？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/265340.sHtML"
+    },
+    {
+      "platform": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/494028.sHtML"
+    },
+{
+      "platform": "为什么多数猫都不怕蛇，毒蛇也不怕么?",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/834516.sHtML"
+    },
+{
+      "platform": "3 个月烧掉 105 亿，腾讯急了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/900350.sHtML"
+    },
+{
+      "platform": "267 英寸巨幕打游戏、第一视角拍 Coser，雷鸟创新CJ26亮相",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/760153.sHtML"
+    },
+{
+      "platform": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/108224.sHtML"
+    },
+{
+      "platform": "女子车内出现死蛇臭了三天才发现",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/256650.sHtML"
+    },
+{
+      "platform": "1991年、“八一九事件”，苏联八月政变",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/968110.sHtML"
+    },
+{
+      "platform": "超详细白帽黑客学习路线",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/443968.sHtML"
+    },
+{
+      "platform": "情侣打官司争宠物狗",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/844766.sHtML"
+    },
+{
+      "platform": "热门餐厅免费排号成黄牛牟利新赛道，有人5天赚40万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/675097.sHtML"
+    },
+    {
+      "platform": "现实中遇到这种人能躲就躲…",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/611976.sHtML"
+    },
+{
+      "platform": "统统删除！不再做付费软件的奴隶",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/104735.sHtML"
+    },
+{
+      "platform": "当表情包有了战力图",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/025555.sHtML"
+    },
+{
+      "platform": "中国小伙越南见女友家长被海浪卷走失联 搜救多日无果",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/395245.sHtML"
+    },
+{
+      "platform": "韩国足协曾“不当招待”赴韩进行裁判交流的3名中国足协工作人员？中国足协回应",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/599834.sHtML"
+    },
+{
+      "platform": "中国航天事业的开拓者之一、运载火箭与战略导弹控制技术专家刘纪原逝世",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/137677.sHtML"
+    },
+{
+      "platform": "中国实现火箭陆地回收 外媒反应来了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/912768.sHtML"
+    },
+{
+      "platform": "封总，太太想跟你离婚很久了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/620539.sHtML"
+    },
+{
+      "platform": "不理解林肯号上的士兵为啥后勤稍微差一点就无法忍受了，不就是水果、日用品短缺吗？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/523714.sHtML"
+    },
+{
+      "platform": "石家庄再通报“居民楼部分坍塌”：3人遇难",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/329845.sHtML"
+    },
+    {
+      "platform": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/429039.sHtML"
+    },
+{
+      "platform": "比特币价格腰斩多空交织",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/097558.sHtML"
+    },
+{
+      "platform": "以你目前的眼光，你会选女儿还是妈妈？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/591843.sHtML"
+    },
+{
+      "platform": "黄山一猴子误触高压电身亡",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/930586.sHtML"
+    },
+{
+      "platform": "如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/408168.sHtML"
+    },
+{
+      "platform": "15分钟一局的王者荣耀，成了数学博士生的避难所",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/347461.sHtML"
+    },
+{
+      "platform": "家中装修厕所因太豪华遭强拆",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/600419.sHtML"
+    },
+{
+      "platform": "袁娅维闪现墨尔本街头即兴演唱",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/490262.sHtML"
+    },
+{
+      "platform": "企退月均3640，事退8136：差距不该让老人用余生来等",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/992635.sHtML"
+    },
+{
+      "platform": "收费近28年，华快一期将免费，我国首批高快速迎到期免费潮",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/828240.sHtML"
+    },
+    {
+      "platform": "我发现一个 Rust 写的多服务器管理工具，免费无节点限制",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/988811.sHtML"
+    },
+{
+      "platform": "香港打击非法卖淫9名内地女子被捕",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/865002.sHtML"
+    },
+{
+      "platform": "外交部：中国公民谨慎赴帕劳旅游",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/804967.sHtML"
+    },
+{
+      "platform": "第七届中非媒体合作论坛明日开幕",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/157601.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/799865.sHtML"
+    },
+{
+      "platform": "女子突然“多”出个老公",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/504310.sHtML"
+    },
+{
+      "platform": "8月19日下午国乒最新消息：2好1坏消息，王曼昱，陈幸同，王艺迪",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/602899.sHtML"
+    },
+{
+      "platform": "造谣青岛大学旭日旗者被拘",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/293897.sHtML"
+    },
+{
+      "platform": "七夕奇妙游把千年缫丝织成一支舞",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/991189.sHtML"
+    },
+{
+      "platform": "2000年、中国三江源自然保护区成立",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/089480.sHtML"
+    },
+    {
+      "platform": "名侦探柯南大结局已经画好了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/786530.sHtML"
+    },
+{
+      "platform": "申通老板娘前夫撤诉，2.8亿元离婚“旧账”画上句号！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/460520.sHtML"
+    },
+{
+      "platform": "第18号台风沙德尔生成",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/922831.sHtML"
+    },
+{
+      "platform": "这是我喜欢的【今天有什么好笑的 #2480】",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/369112.sHtML"
+    },
+{
+      "platform": "我看见两朵一样的云",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/838782.sHtML"
+    },
+{
+      "platform": "里奇保罗：乔丹科比父母双全导致他们自私，詹姆斯单亲家庭导致其无私",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/842151.sHtML"
+    },
+{
+      "platform": "抖音通报色情低俗治理成果：有黑产团伙打造“单亲妈妈交友”人设导流，29 人被抓",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/994146.sHtML"
+    },
+{
+      "platform": "台风沙德尔会抵达江浙沪吗",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/347436.sHtML"
+    },
+{
+      "platform": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/425444.sHtML"
+    },
+{
+      "platform": "香港朋友发的这是真的吗洗碗工赶上内地二线白领了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/409915.sHtML"
+    },
+    {
+      "platform": "盐不会变质，为什么还要写保质期？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/104592.sHtML"
+    },
+{
+      "platform": "四月时，说预计下半年昇腾950超节点批量上市后，deepseek的价格会大幅下调，这个预计还算数吗？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/990514.sHtML"
+    },
+{
+      "platform": "老人举起手机想拍美丽的鱼灯，却遭连环广告疯狂弹窗！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/800031.sHtML"
+    },
+{
+      "platform": "药代违规进入诊疗区域，四家药企产品被湘雅二医院暂停使用3个月",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/276835.sHtML"
+    },
+{
+      "platform": "1772年、瑞典国王古斯塔夫三世发动政变夺取权力",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/744576.sHtML"
+    },
+{
+      "platform": "媒体：拿了地的高管和分管城建的原副区长，这饭吃的是什么？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/462308.sHtML"
+    },
+{
+      "platform": "从聊天应答到业务闭环：AI Agent 落地的实战指南与出海新机遇",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/298931.sHtML"
+    },
+{
+      "platform": "石家庄居民楼发生部分坍塌 造成3人死亡",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/326650.sHtML"
+    },
+{
+      "platform": "俄乌互换103名被俘人员",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/643561.sHtML"
+    },
+{
+      "platform": "国产综艺为什么总是出现各种“学”",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/802692.sHtML"
+    },
+    {
+      "platform": "多地官宣今年秋假时间",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/148966.sHtML"
+    },
+{
+      "platform": "这个把无数人体做成塑料的疯狂科学家，最终自己也将被切成薄片展出",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/563887.sHtML"
+    },
+{
+      "platform": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/208570.sHtML"
+    },
+{
+      "platform": "李在明表态收回战时指挥权意味着啥",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/832509.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness轻松破了GitHub记录，它能引发一场什么革命？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/945266.sHtML"
+    },
+{
+      "platform": "女孩下海遭海蜇蜇伤进ICU 母亲：5米外的救生员未施救",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/831716.sHtML"
+    },
+{
+      "platform": "8年感情，老公对我很好，但我好像已经不爱他了怎么办？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/892507.sHtML"
+    },
+{
+      "platform": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/399091.sHtML"
+    },
+{
+      "platform": "接生医生竟是前夫，我疼得大喊：赶紧把你儿子拽出来，他瞬间愣了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/970797.sHtML"
+    },
+{
+      "platform": "固态电池真的那么完美吗？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/057362.sHtML"
+    },
+    {
+      "platform": "巴厘岛 | 总有一个假日，要属于bali",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/633455.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收，外媒反应来了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/245318.sHtML"
+    },
+{
+      "platform": "吃着不甜，却能让血糖飙升的8种食物！还是公认健康粗粮！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/002191.sHtML"
+    },
+{
+      "platform": "2026年最值得购买的B级轿车，比亚迪秦MAX上市9.99万元起",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/147880.sHtML"
+    },
+{
+      "platform": "前端切图仔被 AI 新闻淹死的第 N 天,我用 TRAE Work 定时任务救了自己",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/108864.sHtML"
+    },
+{
+      "platform": "小股东连夜视察被资助的便利店",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/223474.sHtML"
+    },
+{
+      "platform": "这求生欲，推开导致民警牺牲了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/052341.sHtML"
+    },
+{
+      "platform": "不同职业的老叟戏顽童",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/207364.sHtML"
+    },
+{
+      "platform": "宇树新品机器人原地跳高2米",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/402208.sHtML"
+    },
+{
+      "platform": "老人别把“没力气”当正常衰老",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/722318.sHtML"
+    },
+    {
+      "platform": "宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/041767.sHtML"
+    },
+{
+      "platform": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/219070.sHtML"
+    },
+{
+      "platform": "闪充丝路，智行万里——比亚迪护航海上新丝路",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/839669.sHtML"
+    },
+{
+      "platform": "【柯基】抽象电影《牛来》片尾曲｜《雨后轻风有香》",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/861366.sHtML"
+    },
+{
+      "platform": "MyBatis 源码深度拆解（十一）：MyBatis 事务管理 & 与 Spring 整合原理",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/276212.sHtML"
+    },
+{
+      "platform": "大家庭方盒子新物种长城H10正式上市，限时换新价20.18万元起",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/882756.sHtML"
+    },
+{
+      "platform": "GPT-5.6 Sol暴涨三倍，OpenAI最强视觉AI登顶！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/140333.sHtML"
+    },
+{
+      "platform": "“不装”消费，当这届消费者开始卸下社交滤镜",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/721297.sHtML"
+    },
+{
+      "platform": "网红猪油渣别当零食吃",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/561137.sHtML"
+    },
+{
+      "platform": "曼联即将签下巴莱巴",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/060164.sHtML"
+    },
+    {
+      "platform": "女子在养生馆"治病"2年花费超50万：积蓄没了还借网贷",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/961419.sHtML"
+    },
+{
+      "platform": "伊朗举行哈梅内伊下葬四十日纪念仪式 穆杰塔巴未现身",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/970542.sHtML"
+    },
+{
+      "platform": "大家会记住对象那些无心说出来的小事吗？JR们进来聊聊",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/441102.sHtML"
+    },
+{
+      "platform": "唐代石狮被盗警方悬赏100万",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/731526.sHtML"
+    },
+{
+      "platform": "PVZ恐怖版新潜伏者僵尸",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/502622.sHtML"
+    },
+{
+      "platform": "网传迪丽热巴陈飞宇恋爱依据",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/102963.sHtML"
+    },
+{
+      "platform": "保姆因无法生育，拐走雇主家10月龄男婴35年，养子追问身世时谎称路边捡的，保姆因犯拐骗儿童罪获刑3年，警方还原当年案发经过",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/634177.sHtML"
+    },
+{
+      "platform": "联想携手TCL华星亮相，牵头共建电竞显示体验生态计划",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/276449.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/870630.sHtML"
+    },
+{
+      "platform": "现货黄金日内涨幅达3%",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/795711.sHtML"
+    },
+    {
+      "platform": "张恒远因黑色素瘤病逝",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/815360.sHtML"
+    },
+{
+      "platform": "美国男子向AI透露奸杀计划被平台报警",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/184331.sHtML"
+    },
+{
+      "platform": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/006386.sHtML"
+    },
+{
+      "platform": "5万以下的燃油车 正在被遗忘",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/190379.sHtML"
+    },
+{
+      "platform": "Magic Resume 实战：开源 AI 简历编辑器（多模型 + 本地存储）",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/603075.sHtML"
+    },
+{
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/091493.sHtML"
+    },
+{
+      "platform": "院内花生被车碾碎 当事人要求道歉",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/526089.sHtML"
+    },
+{
+      "platform": "Claude Code 是怎么恢复一段会话的？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/326538.sHtML"
+    },
+{
+      "platform": "如何看待山东聊城「父亲当街脚踹女儿，路人制止反被定罪」一案？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/606920.sHtML"
+    },
+{
+      "platform": "同台错位，王兴兴与马斯克殊途不同归",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/462243.sHtML"
+    },
+    {
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/736188.sHtML"
+    },
+{
+      "platform": "蛋仔沈昭礼温组合技转场",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/413118.sHtML"
+    },
+{
+      "platform": "“王的猜想”密码：累了就休息，不累就学一些",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/433419.sHtML"
+    },
+{
+      "platform": "今年的夏天像是一场梦，不知不觉就到秋天了。",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/584971.sHtML"
+    },
+{
+      "platform": "这是青岛哪位大佬？这么嚣张",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/950504.sHtML"
+    },
+{
+      "platform": "北大数院发布菲尔兹奖得主王虹万字专访，有哪些内容值得关注？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/807845.sHtML"
+    },
+{
+      "platform": "加总理卡尼再通话特朗普",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/996474.sHtML"
+    },
+{
+      "platform": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/462175.sHtML"
+    },
+{
+      "platform": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/878409.sHtML"
+    },
+{
+      "platform": "为库里冲冠继续补强！美媒支招勇士签3人：押宝西蒙斯+抄底托马斯",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/259591.sHtML"
+    },
+    {
+      "platform": "女孩买空座放零食 大姐想坐遭拒",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/368556.sHtML"
+    },
+{
+      "platform": "杭州通报“酒局猥亵案”：企业高管与公职人员被刑拘免职；多地婚姻登记处七夕不打烊；暑期档票房破100亿",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/532960.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/752773.sHtML"
+    },
+{
+      "platform": "笔试前13名全淘汰 倒数5名全逆袭",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/441834.sHtML"
+    },
+{
+      "platform": "1944年、纳粹德国陆军元帅京特·冯·克鲁格畏罪自杀",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/313546.sHtML"
+    },
+{
+      "platform": "七夕节安琪拉陪你玩好不好呀～",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/175230.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/425435.sHtML"
+    },
+{
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/245004.sHtML"
+    },
+{
+      "platform": "领航出海·连接全球：2026 ChinaJoy BTOB 馆盛况空前",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/477673.sHtML"
+    },
+{
+      "platform": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/478452.sHtML"
+    },
+    {
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/859645.sHtML"
+    },
+{
+      "platform": "《重器》打酱油的她不简单，体操世家出身多次上春晚，撞脸王玉雯",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/470005.sHtML"
+    },
+{
+      "platform": "视频丨我国首次！重复使用火箭陆地回收成功",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/654647.sHtML"
+    },
+{
+      "platform": "从选址到开业，决定一家店活下来的是什么？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/308222.sHtML"
+    },
+{
+      "platform": "瞬时回放 v1.0.0｜错过精彩瞬间？一键保存「刚刚发生的画面」",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/463906.sHtML"
+    },
+{
+      "platform": "三星Galaxy Z8系列深圳上手：AI功能如何改变折叠屏的使用方式",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/010224.sHtML"
+    },
+{
+      "platform": "人民日报：腐败案“两个80%”的警示",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/478620.sHtML"
+    },
+{
+      "platform": "“除非家里死人，不要跟我临时请假”广东一医生工作群言论引热议，医院：正在核实，后续情况以官方发布为准；广东省卫健委：医院在调查",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/301971.sHtML"
+    },
+{
+      "platform": "如何评价《一人之下》第773(827）话预告？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/117905.sHtML"
+    },
+{
+      "platform": "歌手毕夏首谈丈夫张恒远离世",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/248649.sHtML"
+    },
+    {
+      "platform": "台湾火箭试射失败坠毁被嘲正常发挥",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/449564.sHtML"
+    },
+{
+      "platform": "劝大家还是老老实实买块装咖喱吧",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/957166.sHtML"
+    },
+{
+      "platform": "今年上市的新车销量哪家强",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/093598.sHtML"
+    },
+{
+      "platform": "秋意来袭开启野餐模式",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/783189.sHtML"
+    },
+{
+      "platform": "永鼎股份 2026 年半年度归母净利润 5.03 亿元，同比增长 58.06%",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/502278.sHtML"
+    },
+{
+      "platform": "瑞幸七夕联名引争议",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/227655.sHtML"
+    },
+{
+      "platform": "中联部邀日本议员访华？外交部回应",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/912055.sHtML"
+    },
+{
+      "platform": "朱雀三号回收成功，如何看待蓝箭和 SpaceX 陆基回收路线的竞争？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/926937.sHtML"
+    },
+{
+      "platform": "璞泰来 2026 年半年度归母净利润 14.52 亿元，同比增长 37.58%",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/369918.sHtML"
+    },
+{
+      "platform": "任贤齐温柔献唱《我是一只鱼》",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/917593.sHtML"
+    },
+    {
+      "platform": "赛力斯 2026 年半年度归母亏损 17.17 亿元，同比下降 158.38%",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/183565.sHtML"
+    },
+{
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/766197.sHtML"
+    },
+{
+      "platform": "保时捷溜车差点撞上劳斯莱斯",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/912629.sHtML"
+    },
+{
+      "platform": "中国气象局启动暴雨四级应急响应",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/171368.sHtML"
+    },
+{
+      "platform": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/976515.sHtML"
+    },
+{
+      "platform": "旅游失败：暑期旺季“打卡式旅游”，真的还不如在家看纪录片",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/611023.sHtML"
+    },
+{
+      "platform": "CMS_Setup(3.0.2.11)电脑端添加各个品牌监控",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/137577.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness确实炸了，但我已经不care了——说说为什么",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/410701.sHtML"
+    },
+{
+      "platform": "河南烩面走到纽约了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/405758.sHtML"
+    },
+{
+      "platform": "字节面试官皱眉了："你的 Agent 为啥用 Code RAG 而不用 grep？Claude Code 都实践出来 grep 效果好，难道你们另有其他考虑？"",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/519038.sHtML"
+    },
+    {
+      "platform": "海军新飞行学员坐军舰去上学",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/049492.sHtML"
+    },
+{
+      "platform": "全线杀跌，发生了什么？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/693500.sHtML"
+    },
+{
+      "platform": "享界G9自适应上锁实测首曝，各种复杂路况脱困无压力！",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/669682.sHtML"
+    },
+{
+      "platform": "抽象的剧遇上了抽象的演员",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/635585.sHtML"
+    },
+{
+      "platform": "三个维度解读前7月经济成绩单",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/847793.sHtML"
+    },
+{
+      "platform": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/486019.sHtML"
+    },
+{
+      "platform": "禾赛科技告赢美国国防部：一审判决被推翻，回应称列入相关清单缺乏正当依据",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/095764.sHtML"
+    },
+{
+      "platform": "王者新英雄王维玩法爆料",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/703007.sHtML"
+    },
+{
+      "platform": "美股三大指数高开 SK海力士涨近5%",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/846679.sHtML"
+    },
+{
+      "platform": "滴滴 AI 研发岗一面：Agent 有几种设计模式？不能只背五个名字",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/760005.sHtML"
+    },
+    {
+      "platform": "前7月内地访日游客同比降56.3%",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/050734.sHtML"
+    },
+{
+      "platform": "CBA l 浙江广厦多名球员离队，球队进入新发展周期",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/197930.sHtML"
+    },
+{
+      "platform": "【直播切片】小鸽子和小小白机器人一起打麻将",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/077762.sHtML"
+    },
+{
+      "platform": "第十八个全民健身日，OPPO宣布将推出FatMax 超燃脂模式，助力全民运动健康",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/271459.sHtML"
+    },
+{
+      "platform": "尾盘才把宇树科技清仓，操作太菜了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/882702.sHtML"
+    },
+{
+      "platform": "邵永灵谈西方媒体酸中国机器狗的成功",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/997327.sHtML"
+    },
+{
+      "platform": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/049932.sHtML"
+    },
+{
+      "platform": "男子拒还5000元借款杀害朋友埋尸自家院中，担心败露两年后又杀姑父灭口，被索赔580万一审判死刑",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/845474.sHtML"
+    },
+{
+      "platform": "中学教师招聘笔试前13名被淘汰后5名进体检 官方通报",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/283943.sHtML"
+    },
+{
+      "platform": "女生第一次国外solotrip之土耳其旺季12天11晚记录（总花费9.7k）????",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/493229.sHtML"
+    },
+    {
+      "platform": "当代版“洛阳纸贵”！广西日报王虹特稿《王的猜想》火了，一份报纸炒到65元",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/801798.sHtML"
+    },
+{
+      "platform": "康佳集团原副总裁杨波被查",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/668844.sHtML"
+    },
+{
+      "platform": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/489102.sHtML"
+    },
+{
+      "platform": "智谱发布 GLM-5.3，编程能力更强；传苹果训练国内专用 AI 模型；微信：朋友圈现在、过去、未来都不会有二次编辑功能 | 极客早知道",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/346777.sHtML"
+    },
+{
+      "platform": "我让 AI Agent 先别改代码，它怎么还是动手了？",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/510320.sHtML"
+    },
+{
+      "platform": "外交部：重申“敌国条款”含义，对严防军国主义幽灵死灰复燃具有重要意义",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/453195.sHtML"
+    },
+{
+      "platform": "曼城发布瓜迪奥拉执教纪录片",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/675095.sHtML"
+    },
+{
+      "platform": "搭载行业首个七年长寿万级大电池，OPPO发布新一代耐用传奇A7 Pro Max",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/954798.sHtML"
+    },
+{
+      "platform": "美军舰南海断电4天：厕所不能用，空调不能用，美元也开始发臭了",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/441797.sHtML"
+    },
+{
+      "platform": "泽连斯基，遭遇大麻烦",
+      "share_url": "http://www.blog.babetcu.cn/Article/details/497869.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日01时07分19秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
