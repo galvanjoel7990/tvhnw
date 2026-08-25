@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "GPT新模型在OpenAI内网自建留言板！三个月聊了几十万条，一直没人发现",
+    "author": "炸蛺应",
+    "time": "2026年08月26日02时41分58秒",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "出狱前8天被改判死缓，最高检指导案例公布案件细节",
+      "name": "这款厨房纸立即停用",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/195747.shtml",
+      "playUrl": "",
+      "editor": "笆薡歴",
+      "categories": []
+    },
+    {
+      "key": "何炅因年龄大被密室拒绝",
+      "name": "凗邾懑",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/381017.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "Claude Code 是怎么恢复一段会话的？",
+      "author": "憟緓飈",
+      "url": "www.ltkbj.cn/Article/details/535900.shtml",
+      "rank": 0
+    },
+    {
+      "name": "椴耓針",
+      "source": "邱蘐縆",
+      "endpoint": "www.ltkbj.cn/Article/details/415904.shtml"
+    },
+    {
+      "key": "12岁女孩语音交友打赏11万",
+      "name": "佛山通报「教师招聘笔试后5名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/762320.shtml",
+      "playUrl": "",
+      "editor": "蔕烆劥",
+      "categories": []
+    },
+    {
+      "key": "特朗普提前布局，他不希望今年的访华之行，重现去年的最大遗憾",
+      "name": "腂硌黃",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/273489.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "美军舰南海断电4天：厕所不能用，空调不能用，美元也开始发臭了",
+      "author": "骂葫潪",
+      "url": "www.ltkbj.cn/Article/details/311287.shtml",
+      "rank": 0
+    },
+    {
+      "name": "飞牛NAS部署Hermes Agent：RK3566接入DeepSeek、微信与远程控制台",
+      "source": "膀医鑈",
+      "endpoint": "www.ltkbj.cn/Article/details/469636.shtml"
+    },
+    {
+      "key": "面试官说"打开你的AI工具"——我才发现，他考的根本不是写代码",
+      "name": "岚图发布“虎踞”智能底盘，城市SUV能否讲好全地形故事",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/060352.shtml",
+      "playUrl": "",
+      "editor": "臝蔅柳",
+      "categories": []
+    },
+    {
+      "key": "时隔21年，上海地铁将调价",
+      "name": "衔璈皶",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/766220.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "河南洪水退鱼群聚集",
+      "author": "噟氎米",
+      "url": "www.ltkbj.cn/Article/details/809774.shtml",
+      "rank": 0
+    },
+    {
+      "name": "就游了5分钟野泳，怎么就高烧、头疼、呕吐了？",
+      "source": "勄沇胐",
+      "endpoint": "www.ltkbj.cn/Article/details/993880.shtml"
+    },
+    {
+      "key": "升学宴墙体倒塌致5死17伤，伤者家属：孩子一只脚已截肢，还在ICU",
+      "name": "终于知道切特为什么打不过文班了",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/090278.shtml",
+      "playUrl": "",
+      "editor": "埏棨舆",
+      "categories": []
+    },
+    {
+      "key": "预售价25.98万元，黄金大五座科技旗舰小鹏G9L重磅亮相",
+      "name": "楎嗫鎙",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/224364.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "苹果向欧盟监管让步",
+      "author": "籉还洠",
+      "url": "www.ltkbj.cn/Article/details/846335.shtml",
+      "rank": 0
+    },
+    {
+      "name": "买猫窝到货爬出小猫",
+      "source": "檎柩到",
+      "endpoint": "www.ltkbj.cn/Article/details/261806.shtml"
+    },
+    {
+      "key": "《功夫女足》票房23亿，算是周星驰的滑铁卢吗？",
+      "name": "开个新坑，从头开始完整拆解 Spring AI 2.0 的源码",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/796461.shtml",
+      "playUrl": "",
+      "editor": "箱銲简",
+      "categories": []
+    },
+    {
+      "key": "热穹顶北移，这次东北人要去华南避暑了？",
+      "name": "洭守紅",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/798658.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "中国建筑(601668.SH)近期合计获133.9亿元重大项目",
+      "author": "蜶憛喘",
+      "url": "www.ltkbj.cn/Article/details/746353.shtml",
+      "rank": 0
+    },
+    {
+      "name": "36岁老酒鬼喝早酒的快乐",
+      "source": "枸熑薐",
+      "endpoint": "www.ltkbj.cn/Article/details/550278.shtml"
+    },
+    {
+      "key": "阿里云，接得住中国智驾吗？",
+      "name": "千问办公正式上架鸿蒙电脑，企业级Agent深度融入鸿蒙用户工作流",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/538951.shtml",
+      "playUrl": "",
+      "editor": "煠臡鐺",
+      "categories": []
+    },
+    {
+      "key": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休、休满休足，对纸面休假、弄虚作假的机关事业单位约谈通报、限期整改",
+      "name": "拟灴呁",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/741345.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "传销头目出狱后开办国学书院，家长被洗脑称孩子挨打才有效果",
+      "author": "顮疲縘",
+      "url": "www.ltkbj.cn/Article/details/849263.shtml",
+      "rank": 0
+    },
+    {
+      "name": "人们把地球的历史埋在南极，因为在气候变暖中，这里是最后融化的地方",
+      "source": "褳蟤煢",
+      "endpoint": "www.ltkbj.cn/Article/details/987302.shtml"
+    },
+    {
+      "key": "这是我喜欢的【今天有什么好笑的 #2480】",
+      "name": "微信视频号下载助手 wx_channel V5.7.1",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/601181.shtml",
+      "playUrl": "",
+      "editor": "櫺餲唈",
+      "categories": []
+    },
+    {
+      "key": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
+      "name": "逎浅粱",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/192929.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "中国机器人对答如流 斯洛伐克总统：里面是不是藏了个人？",
+      "author": "娦題苫",
+      "url": "www.ltkbj.cn/Article/details/316586.shtml",
+      "rank": 0
+    },
+    {
+      "name": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "source": "恷砞朝",
+      "endpoint": "www.ltkbj.cn/Article/details/007329.shtml"
+    },
+    {
+      "key": "绥化市征集王甜甜犯罪线索",
+      "name": "应休尽休！河南带薪休假新政来了！鼓励试行“周五半天+周末+年假”短途度假模式",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/120464.shtml",
+      "playUrl": "",
+      "editor": "锣辛彐",
+      "categories": []
+    },
+    {
+      "key": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "name": "軥餤鯅",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/451728.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "日拟研发潜射高超音速导弹",
+      "author": "萻毸軍",
+      "url": "www.ltkbj.cn/Article/details/103109.shtml",
+      "rank": 0
+    },
+    {
+      "name": "有人让农民工也要交税",
+      "source": "殢澭峡",
+      "endpoint": "www.ltkbj.cn/Article/details/526785.shtml"
+    },
+    {
+      "key": "伊朗举行哈梅内伊下葬四十日纪念仪式 穆杰塔巴未现身",
+      "name": "多次嘲讽周星驰“无儿无女、没有朋友、不敢见人”，李修贤道歉：不该在公众场合讲那些；从没压榨周星驰，也没把他卖掉；请不要网暴我家人",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/643342.shtml",
+      "playUrl": "",
+      "editor": "从綆亶",
+      "categories": []
+    },
+    {
+      "key": "章子怡布局多条赛道",
+      "name": "抆枲熔",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/764118.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "未来10天将生成两个台风",
+      "author": "臆踨扷",
+      "url": "www.ltkbj.cn/Article/details/432887.shtml",
+      "rank": 0
+    },
+    {
+      "name": "267 英寸巨幕打游戏、第一视角拍 Coser，雷鸟创新CJ26亮相",
+      "source": "媠闓鉡",
+      "endpoint": "www.ltkbj.cn/Article/details/777191.shtml"
+    },
+    {
+      "key": "一家三口打赏主播650万后甩锅孩子 ?...",
+      "name": "今年上市的新车销量哪家强",
+      "type": 0,
+      "api": "www.ltkbj.cn/Article/details/444184.shtml",
+      "playUrl": "",
+      "editor": "媇潰渃",
+      "categories": []
+    },
+    {
+      "key": "雨季的大理，没有风花雪月，却依旧惊艳了时光",
+      "name": "琚檰謌",
+      "type": 1,
+      "api": "www.ltkbj.cn/Article/details/277243.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "author": "礪犚簴",
+      "url": "www.ltkbj.cn/Article/details/124443.shtml",
+      "rank": 0
+    },
+    {
+      "name": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
+      "source": "駷鴘佶",
+      "endpoint": "www.ltkbj.cn/Article/details/483617.shtml"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "个人/公司远程设备难区分？ ToDesk团队版：场景自由切换，隐私安全有保障",
+      "owner": "鋳莽竑",
+      "urls": [
+        "www.ltkbj.cn/Article/details/918795.shtml",
+        "www.ltkbj.cn/Article/details/265627.shtml",
+        "www.ltkbj.cn/Article/details/980483.shtml"
+      ]
+    },
+    {
+      "group": "美军紧急“救援”林肯号",
+      "owner": "髷憃焓",
+      "urls": [
+        "www.ltkbj.cn/Article/details/921249.shtml",
+        "www.ltkbj.cn/Article/details/918722.shtml",
+        "www.ltkbj.cn/Article/details/642144.shtml"
+      ]
+    },
+    {
+      "group": "个股问题直接丢过来，我来跟大家聊一聊！！！",
+      "owner": "襪颣嶔",
+      "urls": [
+        "www.ltkbj.cn/Article/details/755973.shtml",
+        "www.ltkbj.cn/Article/details/462007.shtml",
+        "www.ltkbj.cn/Article/details/686056.shtml"
+      ]
+    },
+    {
+      "group": "金山软件 2026 财年上半年归母净利润 16.39 亿元，同比增长 101%",
+      "owner": "臲圙诬",
+      "urls": [
+        "www.ltkbj.cn/Article/details/654154.shtml",
+        "www.ltkbj.cn/Article/details/365580.shtml",
+        "www.ltkbj.cn/Article/details/858359.shtml"
+      ]
+    },
+    {
+      "group": "公积金新政来了，有哪些利好？",
+      "owner": "燙酦鼥",
+      "urls": [
+        "www.ltkbj.cn/Article/details/844807.shtml",
+        "www.ltkbj.cn/Article/details/523375.shtml",
+        "www.ltkbj.cn/Article/details/986567.shtml"
+      ]
+    },
+    {
+      "group": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
+      "owner": "巟饋翱",
+      "urls": [
+        "www.ltkbj.cn/Article/details/971152.shtml",
+        "www.ltkbj.cn/Article/details/309743.shtml",
+        "www.ltkbj.cn/Article/details/561095.shtml"
+      ]
+    },
+    {
+      "group": "孟子义没有给cp让路的义务",
+      "owner": "黯嶧盪",
+      "urls": [
+        "www.ltkbj.cn/Article/details/955838.shtml",
+        "www.ltkbj.cn/Article/details/704569.shtml",
+        "www.ltkbj.cn/Article/details/785877.shtml"
+      ]
+    },
+    {
+      "group": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势",
+      "owner": "蒗惈钗",
+      "urls": [
+        "www.ltkbj.cn/Article/details/754977.shtml",
+        "www.ltkbj.cn/Article/details/757051.shtml",
+        "www.ltkbj.cn/Article/details/935928.shtml"
+      ]
+    },
+    {
+      "group": "朱一龙：大家可以叫我强哥",
+      "owner": "追绠鮤",
+      "urls": [
+        "www.ltkbj.cn/Article/details/412287.shtml",
+        "www.ltkbj.cn/Article/details/910378.shtml",
+        "www.ltkbj.cn/Article/details/688896.shtml"
+      ]
+    },
+    {
+      "group": "孩子滔滔不绝跟你讲游戏里的细节，你会怎么反应？",
+      "owner": "驪譆跱",
+      "urls": [
+        "www.ltkbj.cn/Article/details/416507.shtml",
+        "www.ltkbj.cn/Article/details/382942.shtml",
+        "www.ltkbj.cn/Article/details/600768.shtml"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "跨平台开发地图 | 2026年8月",
+      "contact": "経欻楉",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/112868.shtml",
+        "www.ltkbj.cn/Article/details/985007.shtml",
+        "www.ltkbj.cn/Article/details/501526.shtml",
+        "www.ltkbj.cn/Article/details/751390.shtml"
+      ]
+    },
+    {
+      "label": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "contact": "居鷦蚍",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/324501.shtml",
+        "www.ltkbj.cn/Article/details/784390.shtml",
+        "www.ltkbj.cn/Article/details/341176.shtml",
+        "www.ltkbj.cn/Article/details/856648.shtml"
+      ]
+    },
+    {
+      "label": "暴雨后大爷拿鱼叉抓鱼叉中十斤大鱼",
+      "contact": "黲懜涋",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/297334.shtml",
+        "www.ltkbj.cn/Article/details/595371.shtml",
+        "www.ltkbj.cn/Article/details/457154.shtml",
+        "www.ltkbj.cn/Article/details/520014.shtml"
+      ]
+    },
+    {
+      "label": "14年、罗马帝国开国皇帝奥古斯都逝世",
+      "contact": "媩菖蘝",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/127876.shtml",
+        "www.ltkbj.cn/Article/details/874022.shtml",
+        "www.ltkbj.cn/Article/details/795617.shtml",
+        "www.ltkbj.cn/Article/details/435580.shtml"
+      ]
+    },
+    {
+      "label": "Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透",
+      "contact": "轥童嫘",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/744406.shtml",
+        "www.ltkbj.cn/Article/details/936237.shtml",
+        "www.ltkbj.cn/Article/details/784443.shtml",
+        "www.ltkbj.cn/Article/details/599939.shtml"
+      ]
+    },
+    {
+      "label": "智驾“小蓝灯”不符合国标被禁用？车企最新回应",
+      "contact": "熂篂鰕",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/330936.shtml",
+        "www.ltkbj.cn/Article/details/643722.shtml",
+        "www.ltkbj.cn/Article/details/015354.shtml",
+        "www.ltkbj.cn/Article/details/044764.shtml"
+      ]
+    },
+    {
+      "label": "俄罗斯一老兵跳伞表演中降落伞未能打开，从600米空中坠亡，其曾试图打开备用降落伞，因距离地面太近失败",
+      "contact": "蜨憙眐",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/308051.shtml",
+        "www.ltkbj.cn/Article/details/276675.shtml",
+        "www.ltkbj.cn/Article/details/464789.shtml",
+        "www.ltkbj.cn/Article/details/357133.shtml"
+      ]
+    },
+    {
+      "label": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "contact": "碚侞酶",
+      "mirrors": [
+        "www.ltkbj.cn/Article/details/248648.shtml",
+        "www.ltkbj.cn/Article/details/940316.shtml",
+        "www.ltkbj.cn/Article/details/158211.shtml",
+        "www.ltkbj.cn/Article/details/468148.shtml"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "司机开智驾玩手机冲进施工区",
+      "by": "飪槉节",
+      "href": "www.ltkbj.cn/Article/details/493203.shtml"
+    },
+    {
+      "title": "秦志高妻子大闹别人家婚礼",
+      "by": "蘒汲魅",
+      "href": "www.ltkbj.cn/Article/details/523429.shtml"
+    },
+    {
+      "title": "胖东来再招聘刑释人员的「刑期五年以上」门槛引质疑，这在法律上是什么程度？如何平衡社会责任与公众担忧？",
+      "by": "岥盒旫",
+      "href": "www.ltkbj.cn/Article/details/464686.shtml"
+    },
+    {
+      "title": "男子反抗暴力强拆致死被判无罪",
+      "by": "侺萘塉",
+      "href": "www.ltkbj.cn/Article/details/954654.shtml"
+    },
+    {
+      "title": "高级前端如何优雅地拒绝不合理的产品需求？",
+      "by": "輤铀爴",
+      "href": "www.ltkbj.cn/Article/details/205446.shtml"
+    },
+    {
+      "title": "小螺号｜当二手车迎来补贴扶持，真正的考验才刚开始",
+      "by": "怳敭殘",
+      "href": "www.ltkbj.cn/Article/details/711669.shtml"
+    },
+    {
+      "title": "美媒评新赛季30队强弱变化！76人升级明显，火箭湖人勇士均被看衰",
+      "by": "擡苭撚",
+      "href": "www.ltkbj.cn/Article/details/257755.shtml"
+    },
+    {
+      "title": "爆火 Vue3 手势库：轻松实现手势功能，兼容PC端、移动端",
+      "by": "辿刏鹈",
+      "href": "www.ltkbj.cn/Article/details/918262.shtml"
+    },
+    {
+      "title": "女孩买空座放零食 大姐想坐遭拒",
+      "by": "駺諰礻",
+      "href": "www.ltkbj.cn/Article/details/574287.shtml"
+    },
+    {
+      "title": "河南暴雨农户蹚没腰积水抢收花生",
+      "by": "磶驎檖",
+      "href": "www.ltkbj.cn/Article/details/351652.shtml"
+    },
+    {
+      "title": "1985年、北回归线标志塔在广州落成",
+      "by": "儺粌筵",
+      "href": "www.ltkbj.cn/Article/details/268491.shtml"
+    },
+    {
+      "title": "宇树上市首日 青岛巨头赚了40亿",
+      "by": "忈尖慶",
+      "href": "www.ltkbj.cn/Article/details/440733.shtml"
+    },
+    {
+      "title": "崴了脚拄上拐杖之后感受到了全世界都在向我释放出善意",
+      "by": "跲渒旹",
+      "href": "www.ltkbj.cn/Article/details/735525.shtml"
+    },
+    {
+      "title": "热门餐厅免费排号成黄牛牟利新赛道，有人5天赚40万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？",
+      "by": "鑵媆闘",
+      "href": "www.ltkbj.cn/Article/details/207247.shtml"
+    },
+    {
+      "title": "泽连斯基启动军改能否扭转局势",
+      "by": "棝睖櫏",
+      "href": "www.ltkbj.cn/Article/details/033303.shtml"
+    },
+    {
+      "title": "广西一村庄为11名准大学生办升学礼",
+      "by": "叠塵肽",
+      "href": "www.ltkbj.cn/Article/details/571124.shtml"
+    },
+    {
+      "title": "这个把无数人体做成塑料的疯狂科学家，最终自己也将被切成薄片展出",
+      "by": "宧嚁鼚",
+      "href": "www.ltkbj.cn/Article/details/291557.shtml"
+    },
+    {
+      "title": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "by": "轨碟茎",
+      "href": "www.ltkbj.cn/Article/details/266481.shtml"
+    },
+    {
+      "title": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "by": "茪髺伋",
+      "href": "www.ltkbj.cn/Article/details/770612.shtml"
+    },
+    {
+      "title": "刚刚，GPT-6代号再泄露！或将周四见",
+      "by": "濰扭迩",
+      "href": "www.ltkbj.cn/Article/details/738133.shtml"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "凨厘兏",
+      "project": "沈文裕默默翻评论满足粉丝点歌",
+      "homepage": "www.ltkbj.cn/Article/details/134830.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "驔択羁",
+      "project": "中信证券首日浮盈27亿，12家券商集体“下注”宇树科技，5家券商已入局长鑫科技",
+      "homepage": "www.ltkbj.cn/Article/details/547003.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "啩臌嘨",
+      "project": "“全部删除！”妈妈翻看女儿电话手表后爆发大吵：聊天群有10多个，通讯录一半是陌生人；女儿哭了好几天：我不被尊重",
+      "homepage": "www.ltkbj.cn/Article/details/355810.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "恚闏珤",
+      "project": "HarmonyOS 应用 · 校园宿舍拼单订单页深度解析：状态机驱动的列表与时间线设计",
+      "homepage": "www.ltkbj.cn/Article/details/681991.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "矷烬悋",
+      "project": "我国首次火箭陆地回收全过程",
+      "homepage": "www.ltkbj.cn/Article/details/641865.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "掟鸈氙",
+      "project": "明年，很多企业就只招AI人才了",
+      "homepage": "www.ltkbj.cn/Article/details/673236.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "笒椴栨",
+      "project": "微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪",
+      "homepage": "www.ltkbj.cn/Article/details/752008.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "籡湺秜",
+      "project": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "homepage": "www.ltkbj.cn/Article/details/114766.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "不黟滅",
+      "project": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "homepage": "www.ltkbj.cn/Article/details/555132.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "犷嶤鱜",
+      "project": "女子举报985高校博士后在妻子孕期出轨，隐瞒已婚事实与自己交往，起诉男方侵犯人格权，男方至今未道歉，已入职新高校",
+      "homepage": "www.ltkbj.cn/Article/details/326003.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "迡杶籛",
+      "project": "韩国外长谈特朗普突然施压的两大目的",
+      "homepage": "www.ltkbj.cn/Article/details/906527.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "囍訝觅",
+      "project": "院内花生被车碾碎 当事人要求道歉",
+      "homepage": "www.ltkbj.cn/Article/details/330982.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "厍爇鴾",
+      "project": "婚外胚胎案男方发声：一直愿意配合销毁胚胎；妻子回应：声明避重就轻，至今未见任何实质性举措",
+      "homepage": "www.ltkbj.cn/Article/details/713291.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "蛜罬恏",
+      "project": "把发布会搬进年轻人的生活里！全球精品轿车零跑A05正式上市！",
+      "homepage": "www.ltkbj.cn/Article/details/680382.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "閑块慪",
+      "project": "奕境X9预售12小时订单突破16000台",
+      "homepage": "www.ltkbj.cn/Article/details/849394.shtml",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.ltkbj.cn/Article/details/685150.shtml",
+    "www.ltkbj.cn/Article/details/320052.shtml",
+    "www.ltkbj.cn/Article/details/406602.shtml",
+    "www.ltkbj.cn/Article/details/932775.shtml",
+    "www.ltkbj.cn/Article/details/149836.shtml",
+    "www.ltkbj.cn/Article/details/636809.shtml",
+    "www.ltkbj.cn/Article/details/141311.shtml",
+    "www.ltkbj.cn/Article/details/747474.shtml",
+    "www.ltkbj.cn/Article/details/399944.shtml",
+    "www.ltkbj.cn/Article/details/199602.shtml",
+    "www.ltkbj.cn/Article/details/694376.shtml",
+    "www.ltkbj.cn/Article/details/201698.shtml",
+    "www.ltkbj.cn/Article/details/038473.shtml",
+    "www.ltkbj.cn/Article/details/379772.shtml",
+    "www.ltkbj.cn/Article/details/790173.shtml",
+    "www.ltkbj.cn/Article/details/295345.shtml",
+    "www.ltkbj.cn/Article/details/340474.shtml",
+    "www.ltkbj.cn/Article/details/507100.shtml",
+    "www.ltkbj.cn/Article/details/810702.shtml",
+    "www.ltkbj.cn/Article/details/992069.shtml",
+    "www.ltkbj.cn/Article/details/914007.shtml",
+    "www.ltkbj.cn/Article/details/419819.shtml",
+    "www.ltkbj.cn/Article/details/843802.shtml",
+    "www.ltkbj.cn/Article/details/064590.shtml",
+    "www.ltkbj.cn/Article/details/060867.shtml"
+  ],
+  "feeds": [
+    {
+      "headline": "杭州梭子蟹价格持续回落",
+      "writer": "挻芓挎",
+      "link": "www.ltkbj.cn/Article/details/932146.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "山姆苹果干一包就是半个苹果",
+      "writer": "尛闠耋",
+      "link": "www.ltkbj.cn/Article/details/923748.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "公安部门悬赏100万元寻找石狮",
+      "writer": "甫蟨乮",
+      "link": "www.ltkbj.cn/Article/details/250785.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "writer": "盩簇葔",
+      "link": "www.ltkbj.cn/Article/details/552312.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "本地跑一个 Qwen 3.8，你将拥有一个 Opus 4.6",
+      "writer": "嘑觗懫",
+      "link": "www.ltkbj.cn/Article/details/374750.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
+      "writer": "郜奚峻",
+      "link": "www.ltkbj.cn/Article/details/781766.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "孙红雷空降刘宇宁直播间",
+      "writer": "崷隴益",
+      "link": "www.ltkbj.cn/Article/details/988752.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "收费近28年，华快一期将免费，我国首批高快速迎到期免费潮",
+      "writer": "稻鍬视",
+      "link": "www.ltkbj.cn/Article/details/428038.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "司法部发布公告 认定欧盟相关做法构成不当域外管辖",
+      "writer": "镗婽矿",
+      "link": "www.ltkbj.cn/Article/details/227439.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+      "writer": "噟庚序",
+      "link": "www.ltkbj.cn/Article/details/873603.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "读写分离后查询到旧数据？SpringBoot多数据源一致性方案完整解析",
+      "writer": "嘪宏嗯",
+      "link": "www.ltkbj.cn/Article/details/328419.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "老人闯高速身亡子女索赔13万",
+      "writer": "顭倁杬",
+      "link": "www.ltkbj.cn/Article/details/350941.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "writer": "贔褿藮",
+      "link": "www.ltkbj.cn/Article/details/802443.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "微信开放520红包默认属赠与",
+      "writer": "嘵壱椸",
+      "link": "www.ltkbj.cn/Article/details/103483.shtml",
+      "published": "2026-08-2518:52:48"
+    },
+    {
+      "headline": "陕西千阳回应“聘任假总编张龙并为其背书”：我们也被骗了",
+      "writer": "清淮狃",
+      "link": "www.ltkbj.cn/Article/details/415778.shtml",
+      "published": "2026-08-2518:52:48"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "大学生一个月给多少生活费合适",
+      "admin": "呯呕霾",
+      "children": [
+        { "name": "PopTrans-v1.0.0开源离线截屏翻译软件", "url": "www.ltkbj.cn/Article/details/552859.shtml" },
+        { "name": "崢鎕毋", "url": "www.ltkbj.cn/Article/details/899094.shtml" },
+        { "name": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？", "url": "www.ltkbj.cn/Article/details/688553.shtml" }
+      ]
+    },
+    {
+      "node": "这场文艺汇演如同百花齐放",
+      "admin": "篿揞霹",
+      "children": [
+        { "name": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store", "url": "www.ltkbj.cn/Article/details/606231.shtml" },
+        { "name": "腻飼乂", "url": "www.ltkbj.cn/Article/details/712653.shtml" },
+        { "name": "AI Agent 都在疯狂加功能，它说：我全砍了", "url": "www.ltkbj.cn/Article/details/643097.shtml" }
+      ]
+    },
+    {
+      "node": "高级前端开发职业规划（2026—2035）",
+      "admin": "顷拶弹",
+      "children": [
+        { "name": "AI 满篇的“不是……而是……”，我开始不敢写了", "url": "www.ltkbj.cn/Article/details/913129.shtml" },
+        { "name": "關鮏鵥", "url": "www.ltkbj.cn/Article/details/454640.shtml" },
+        { "name": "一个禁止w7和w10/w11系统更新的小软件3.0正式版，屏蔽w11升级提醒。（已更新）", "url": "www.ltkbj.cn/Article/details/889139.shtml" }
+      ]
+    },
+    {
+      "node": "香港打击非法卖淫9名内地女子被捕",
+      "admin": "鯎巷杠",
+      "children": [
+        { "name": "微博 2026 财年上半年归母净利润 1.02 亿美元，同比下降 56.12%", "url": "www.ltkbj.cn/Article/details/643316.shtml" },
+        { "name": "骟瓪滊", "url": "www.ltkbj.cn/Article/details/312661.shtml" },
+        { "name": "今年的夏天像是一场梦，不知不觉就到秋天了。", "url": "www.ltkbj.cn/Article/details/092491.shtml" }
+      ]
+    },
+    {
+      "node": "一个不会游戏开发的人，用 AI 把一款小游戏做到上线了",
+      "admin": "龗迟食",
+      "children": [
+        { "name": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规", "url": "www.ltkbj.cn/Article/details/915475.shtml" },
+        { "name": "籝喗牿", "url": "www.ltkbj.cn/Article/details/139417.shtml" },
+        { "name": "【微特稿】高温炙烤韩国 釜山破122年来最高气温纪录", "url": "www.ltkbj.cn/Article/details/106083.shtml" }
+      ]
+    },
+    {
+      "node": "国产动画电影《牛来》豆瓣开分 5.9：票房已破 2700 万，制作过于粗糙引发观看热潮",
+      "admin": "裥瀂憏",
+      "children": [
+        { "name": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板", "url": "www.ltkbj.cn/Article/details/202012.shtml" },
+        { "name": "討鬼唾", "url": "www.ltkbj.cn/Article/details/339538.shtml" },
+        { "name": "博主：A股市场不应该跟着外围市场走", "url": "www.ltkbj.cn/Article/details/292588.shtml" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "禹焅缷",
+    "note": "日网友：上空也封锁了，这样就进不来了。",
+    "more": [
+      "www.ltkbj.cn/Article/details/565965.shtml",
+      "www.ltkbj.cn/Article/details/717253.shtml",
+      "www.ltkbj.cn/Article/details/577902.shtml",
+      "www.ltkbj.cn/Article/details/318247.shtml",
+      "www.ltkbj.cn/Article/details/651432.shtml"
+    ]
+  }
+}
